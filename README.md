@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
