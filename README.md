@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/GnaneswariPilli-8/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GnaneswariPilli-8/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/GnaneswariPilli-8/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
